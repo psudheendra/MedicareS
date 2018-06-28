@@ -1,0 +1,36 @@
+﻿[
+    {
+        "id" : 1,
+        "reference": "5860",
+        "subject": "Reminder - Process for Requesting an HPMS Crosswalk Excelption for Contract Year(CY) 2019",
+        "receipt_date": "06/05/2018",
+        "type": "FYI",
+        "due_date": "06/05/2018",
+        "status": "Sent",
+        "dept_division": "Actuarial",
+        "summary": "summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary "
+    },
+    {
+        "id" : 2,
+        "reference": "5860",
+        "subject": "Reminder - Process for Requesting an HPMS Crosswalk Excelption for Contract Year(CY) 2019",
+        "receipt_date": "06/05/2018",
+        "type": "FYI",
+        "due_date": "06/05/2018",
+        "status": "Sent",
+        "dept_division": "Actuarial",
+        "summary": "summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary "
+    },
+    {
+        "id" : 3,
+        "reference": "5860",
+        "subject": "Reminder - Process for Requesting an HPMS Crosswalk Excelption for Contract Year(CY) 2019",
+        "receipt_date": "06/05/2018",
+        "type": "FYI",
+        "due_date": "06/05/2018",
+        "status": "Sent",
+        "dept_division": "Actuarial",
+        "summary": "summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary summary "
+    }
+    
+]
